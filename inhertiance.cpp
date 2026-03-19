@@ -38,6 +38,7 @@ public:
 class GraduateStudent : public Student
 {
 public:
+
     string researchTopic;
 
     GraduateStudent(string name, int age, int rollno, string researchTopic)
